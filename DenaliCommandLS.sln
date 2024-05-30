@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenaliCommandLS", "DenaliCommandLS\DenaliCommandLS.csproj", "{84F67ECF-B6A3-419A-8350-DF58A42744DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84F67ECF-B6A3-419A-8350-DF58A42744DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F67ECF-B6A3-419A-8350-DF58A42744DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F67ECF-B6A3-419A-8350-DF58A42744DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F67ECF-B6A3-419A-8350-DF58A42744DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E414C75-6551-4CE8-BC49-C10BC9BE7F09}
+	EndGlobalSection
+EndGlobal

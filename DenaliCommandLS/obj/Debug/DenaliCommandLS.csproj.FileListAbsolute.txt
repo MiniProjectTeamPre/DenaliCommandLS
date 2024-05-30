@@ -1,0 +1,11 @@
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliCommandLS\DenaliCommandLS\bin\Debug\DenaliCommandLS.exe.config
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliCommandLS\DenaliCommandLS\bin\Debug\DenaliCommandLS.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliCommandLS\DenaliCommandLS\bin\Debug\DenaliCommandLS.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliCommandLS\DenaliCommandLS\obj\Debug\DenaliCommandLS.csproj.AssemblyReference.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliCommandLS\DenaliCommandLS\obj\Debug\DenaliCommandLS.csproj.SuggestedBindingRedirects.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliCommandLS\DenaliCommandLS\obj\Debug\DenaliCommandLS.Properties.Resources.resources
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliCommandLS\DenaliCommandLS\obj\Debug\DenaliCommandLS.csproj.GenerateResource.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliCommandLS\DenaliCommandLS\obj\Debug\DenaliCommandLS.csproj.CoreCompileInputs.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliCommandLS\DenaliCommandLS\obj\Debug\DenaliCommandLS.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliCommandLS\DenaliCommandLS\obj\Debug\DenaliCommandLS.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliCommandLS\DenaliCommandLS\obj\Debug\DenaliCommandLS.FormMain.resources
